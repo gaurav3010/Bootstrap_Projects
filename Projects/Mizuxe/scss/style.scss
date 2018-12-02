@@ -41,6 +41,19 @@ body{
     cursor: pointer;
 }
 
+#authors{
+    img{
+        margin-top: -20%;
+    }
+    .card:hover{
+        background: $primary;
+        color: white;
+    }
+    .fab{
+        color: white;
+    }
+}
+
 @media(max-width: 768px){
     #showcase{
         min-height: 500px;
@@ -52,5 +65,9 @@ body{
 
     .mb-resp{
         margin-bottom: 1rem;
+    }
+
+    .mb-mobile{
+        margin-bottom: 40px;
     }
 }
