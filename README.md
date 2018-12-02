@@ -9,3 +9,11 @@ Five theme include
    - Why This Book
    - Authors Intro
    - Contact or Subscribe
+   
+2) LoopLAB :-
+
+	LoopLAB is landing page of the social app or information about the social app
+	- Navbar
+	- Explore & Create
+	- Share
+	- Contact Us
