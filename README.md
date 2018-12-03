@@ -12,8 +12,17 @@ Five theme include
    
 2) LoopLAB :-
 
-	LoopLAB is landing page of the social app or information about the social app
+	LoopLAB is landing page of the social app or information about the social app.
 	- Navbar
 	- Explore & Create
 	- Share
 	- Contact Us
+
+3) Portfolio :-
+	
+	Portfolio page is about the intro of person and his work.
+	- Main Header
+	- Resume
+	- Work
+	- Contact
+	- Footer(Downlod Resume)
